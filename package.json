@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/GetAcademy/IntroNode.js#readme",
   "dependencies": {
+    "axios": "^0.27.2",
     "prompt-sync": "^4.2.0"
   }
 }
